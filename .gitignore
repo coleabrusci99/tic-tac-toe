@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.yaml
+*.txt
+*.html
+task.py
+test_helper.py
+tests.py
